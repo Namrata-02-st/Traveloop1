@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="City image placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#94a3b8" />
+      <stop offset="1" stop-color="#cbd5e1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g)" />
+  <circle cx="220" cy="220" r="160" fill="#ffffff22" />
+  <circle cx="980" cy="620" r="220" fill="#ffffff1a" />
+  <rect x="140" y="500" width="330" height="120" rx="24" fill="#ffffff1a" />
+  <text x="140" y="150" font-family="system-ui, sans-serif" font-size="64" font-weight="700" fill="#ffffff">Destination</text>
+  <text x="140" y="210" font-family="system-ui, sans-serif" font-size="28" fill="#ffffffcc">Cityscape</text>
+</svg>
